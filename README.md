@@ -1,5 +1,5 @@
-### Hi there 👋 :octocat: 
-
+### Hi there 👋 
+**SravanthiMalepati/SravanthiMalepati**
 <!--
 **SravanthiMalepati/SravanthiMalepati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
