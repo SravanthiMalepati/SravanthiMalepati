@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/sravanthimalepati/">
   <img align="left" alt="Sravanthi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🔭 I’m currently working on Tennis Data Visualization Project
 - 🌱 I’m currently learning Angular
 
