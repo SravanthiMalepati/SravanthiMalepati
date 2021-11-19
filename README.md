@@ -1,7 +1,7 @@
 
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🔭 I’m currently working on Tennis Data Visualization Project
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 💬 ask me about anything, i am happy to help;
 - 😄 Pronouns: She/Her
 <a href="https://www.linkedin.com/in/sravanthimalepati/">
