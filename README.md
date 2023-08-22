@@ -4,8 +4,8 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - 💬 ask me about anything, i am happy to help;
 - 😄 Pronouns: She/Her
   
-<a href="[https://www.linkedin.com/in/sravanthimalepati/](https://www.linkedin.com/in/sravanthimalepati/)">
-  <img align="left" alt="Sravanthi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sravanthimalepati/">
+  <img align="left" alt="Sravanthi's LinkedIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
 </a>
 <!--### Hi there 👋 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
