@@ -3,7 +3,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - 💻 I’m currently working as a Software Engineer
 - 💬 ask me about anything, i am happy to help
 - 😄 Pronouns: She/Her
-- 📫 How to reach me: sravanthi441997@gmail.com
+- 📫 Reach me at: sravanthi441997@gmail.com
   <!--
 <a href="https://www.linkedin.com/in/sravanthimalepati/">
   <img align="left" alt="Sravanthi's LinkedIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
